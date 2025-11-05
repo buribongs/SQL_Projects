@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,signup_date,country,age,income,loyalty_points
+1.0,quinn,Johnson,quinn.johnson@gmail.com,+1-673-370-4969,"Sep 07, 2021",Germany,52,,N/A
+2.0,Nancy,Garcia,nancy.garcia@yahoo.com,(597) 290-5204,03-29-2022,U.S.,,,points
+3.0,Bob,YOUNG,bob.young@hotmail.com,+1-505-270-1020,03/01/2020,CA,thirty,$39082,3629
+,Liam,Williams,liam.williams@hotmail.com,2294026167,2018-05-20,Australia,thirty,$94256,N/A
+5.0,KAREN,Jones,karen.jones@hotmail.com,7610727695,2021-06-26,Canada,unknown,,N/A
+,quinn,Clark,quinn.clark@example.com,,12-02-2024,,58,N/A,
+7.0,FRANK,martin,frank.martin@yahoo.com,7923136187,"Jul 03, 2021",Australia,thirty,42281,2567
+,CHARLIE,brown,charlie.brown@gmail.com,8775777878,21/05/2025,France,,$73513,points
+,BOB, Davis ,bob.davis@gmail.com,2733598167,"Apr 21, 2023",Germany,thirty,48218,points
+10.0,frank,Miller,frank.miller@mail.com,1369447678,06/05/2021,U.S.,,N/A,N/A
+11.0,KAREN,Allen,karen.allen@example.com,,15/10/2022,Germany,thirty,,points
+12.0,liam,allen,liam.allen@example.com,6065761016,"Sep 26, 2019",CA,31,,2080
+13.0,Diana,Miller,diana.miller@example.com,(621) 877-4866,08-22-2025,CA,thirty,N/A,3487
+14.0,Eve,LEWIS,eve.lewis@hotmail.com,7342519265,2017-06-24,United States,thirty,N/A,183
+15.0,sam,Hall,sam.hall@yahoo.com,1562089079,23/07/2018,UK,-5,$71385,N/A
+16.0,mike,miller,mike.miller@mail.com,,"Aug 05, 2016",,thirty,64009,
+,bob,CLARK,bob.clark@gmail.com,(693) 716-9368,2025-05-23,U.S.,,,N/A
+,nancy, Davis ,nancy.davis@example.com,(915) 170-9266,2021-02-05,CA,thirty,,
+,Sam,king,sam.king@mail.com,+1-690-834-1903,"May 05, 2023",United Kingdom,,41679,N/A
+, Jack , Hall ,jack.hall@yahoo.com,8148235877,2022-11-04,australia,unknown,N/A,3754
+21.0,Diana,SMITH,diana.smith@mail.com,+1-198-565-2942,"Dec 23, 2016",United Kingdom,thirty,77966,points
+22.0,sam, Miller ,sam.miller@yahoo.com,(381) 967-8846,2016-06-19,England,37,N/A,
+23.0,bob,LEE,bob.lee@yahoo.com,(441) 839-8360,2021-07-06,france,15,101438,
+24.0,Mike,Miller,mike.miller@example.com,(787) 764-3249,05-23-2017,USA,unknown,86301,4537
+25.0,Alice,brown,alice.brown@mail.com,,2022-05-22,CA,-5,,
+26.0,liam,RODRIGUEZ,liam.rodriguez@example.com,+1-328-491-9020,04-15-2021,,unknown,54038,N/A
+,Nancy,walker,nancy.walker@gmail.com,6443059777,"Aug 04, 2025",United Kingdom,69,$25978,
+28.0, Jack ,Lee,jack.lee@gmail.com,1125345536,2015-12-17,United States,34,$70473,2120
+29.0, Quinn , Rodriguez ,quinn.rodriguez@gmail.com,,25/02/2021,United States,unknown,,
+,KAREN,Miller,karen.miller@mail.com,(970) 998-8649,2019-01-27,United Kingdom,unknown,$80208,N/A
+31.0,charlie, Jones ,charlie.jones@mail.com,,"Oct 19, 2024",United Kingdom,thirty,,2323
+,Rita,Lewis,rita.lewis@example.com,(602) 725-1284,31/05/2022,france,,N/A,points
+33.0,Hank,king,hank.king@mail.com,,11-20-2021,Canada,-5,N/A,
+,paul,rodriguez,paul.rodriguez@example.com,6646373171,2018-05-22,United Kingdom,thirty,,2368
+35.0, Charlie ,GARCIA,charlie.garcia@mail.com,+1-577-919-9619,2017-03-15,Canada,-5,79222,points
+, Oscar ,CLARK,oscar.clark@hotmail.com,+1-443-791-5651,2022-10-25,UK,,115453,N/A
+,Sam,GARCIA,sam.garcia@mail.com,,"Oct 25, 2016",U.S.,unknown,,
+38.0,Nancy,Wilson,nancy.wilson@gmail.com,(470) 996-8562,"Sep 27, 2016",france,28,N/A,points
+,Nancy,williams,nancy.williams@yahoo.com,,10/02/2016,England,thirty,21728,points
+40.0, Tina ,Jones,tina.jones@hotmail.com,+1-525-371-3374,01/06/2015,CA,,N/A,
+,Ivy,KING,ivy.king@hotmail.com,+1-446-965-5802,2023-07-11,france,26,$23247,points
+,QUINN,Williams,quinn.williams@mail.com,(270) 396-5708,2017-04-03,USA,,,N/A
+43.0,Rita,Johnson,rita.johnson@gmail.com,7749244845,2024-12-20,England,-5,,
+44.0,LIAM, Lewis ,liam.lewis@mail.com,(459) 268-9847,14/05/2017,UK,thirty,$83085,N/A
+,ALICE, martin ,alice.martin@mail.com,+1-194-646-6248,"Apr 19, 2020",United States,-5,99147,
+46.0,Quinn, Walker ,quinn.walker@gmail.com,8795608174,2018-07-07,CA,30,72502,points
+47.0,Frank,smith,frank.smith@example.com,,2020-09-27,U.S.,thirty,$81017,
+48.0,Jack,GARCIA,jack.garcia@gmail.com,7817286693,08-26-2021,france,21,N/A,2711
+,Paul, Hernandez ,paul.hernandez@yahoo.com,,"Nov 10, 2019",Germany,-5,N/A,points
+50.0,IVY,hernandez,ivy.hernandez@gmail.com,+1-228-391-8909,2023-04-19,Germany,-5,,N/A
+51.0,quinn,JONES,quinn.jones@yahoo.com,2758800891,03-24-2019,Germany,,101172,
+52.0,Eve,WILLIAMS,eve.williams@example.com,(473) 445-2543,2019-12-04,CA,unknown,N/A,3648
+, mike ,Young,mike.young@example.com,,06/06/2017,france,unknown,N/A,4052
+54.0,sam,allen,sam.allen@mail.com,(107) 275-6324,"Sep 10, 2022",United Kingdom,unknown,76957,
+,SAM,Davis,sam.davis@gmail.com,+1-556-491-5845,04-14-2024,Germany,thirty,$33447,N/A
+56.0,Grace,MARTIN,grace.martin@hotmail.com,,02-12-2024,United States,-5,$70620,N/A
+57.0, Eve ,Rodriguez,eve.rodriguez@yahoo.com,+1-515-893-9818,2016-01-23,United States,40,,
+,Jack, Allen ,jack.allen@yahoo.com,+1-344-150-5011,11-04-2024,france,,$25579,points
+59.0,rita,Young,rita.young@example.com,9348242228,"Apr 20, 2017",CA,-5,,points
+,Alice,WALKER,alice.walker@hotmail.com,,2019-09-14,England,59,$42898,points
+, Bob ,Smith,bob.smith@mail.com,(933) 629-2423,"Jan 05, 2019",UK,thirty,$92535,
+62.0,Charlie,Wilson,charlie.wilson@yahoo.com,9354665519,10-14-2015,UK,46,N/A,points
+63.0,Eve,BROWN,eve.brown@hotmail.com,6408502256,"Jul 19, 2015",England,thirty,$60012,
+64.0,charlie,Smith,charlie.smith@gmail.com,+1-990-459-3932,07-18-2022,USA,-5,,
+,jack,YOUNG,jackyoung@mailcom,+1-663-852-8389,13/06/2022,United States,unknown,N/A,points
+66.0,hank,Clark,hank.clark@gmail.com,,2022-10-10,Germany,35,$37480,N/A
+67.0,Nancy,Davis,nancydavis@mailcom,(985) 943-9715,16/03/2025,CA,41,,points
+68.0,Eve,clark,eve.clark@yahoo.com,7751112284,2021-05-24,Australia,unknown,N/A,points
+69.0,Nancy,hall,nancy.hall@yahoo.com,,11/07/2022,France,-5,$72825,3560
+70.0,Karen,Hernandez,karenhernandez@gmailcom,2001809378,"Feb 28, 2019",U.S.,58,,points
+, Alice ,Smith,alice.smith@example.com,(580) 412-5009,22/05/2024,England,thirty,N/A,points
+72.0,rita,SMITH,rita.smith@yahoo.com,9883250002,13/01/2020,UK,26,$104663,points
+73.0,Ivy,Garcia,ivy.garcia@yahoo.com,,"Sep 15, 2022",England,52,115926,3727
+74.0,eve, Jones ,eve.jones@example.com,,2022-02-11,australia,-5,94188,N/A
+75.0, Ivy ,LEE,ivy.lee@gmail.com,(751) 463-1381,2017-12-27,Germany,-5,70684,2238
+,Grace,Jones,grace.jones@yahoo.com,8586526719,"Sep 25, 2020",England,-5,$45078,points
+,diana,johnson,diana.johnson@mail.com,(409) 980-4309,"May 19, 2025",England,,N/A,N/A
+,Paul, Walker ,paulwalker@mailcom,2523081455,"Oct 10, 2021",U.S.,-5,42728,1134
+79.0,Oscar,Hernandez,oscarhernandez@yahoocom,,12/08/2023,France,,73986,
+80.0,QUINN,Miller,quinn.miller@yahoo.com,6928827385,"Jul 25, 2025",Canada,-5,N/A,points
+81.0,nancy,LEWIS,nancy.lewis@mail.com,(353) 579-4596,06-25-2019,Australia,unknown,N/A,
+,Liam, martin ,liam.martin@hotmail.com,+1-621-833-9492,01-18-2016,England,-5,21366,N/A
+83.0, Hank ,Johnson,hank.johnson@mail.com,+1-741-294-7211,07-28-2025,,-5,N/A,N/A
+,EVE,lee,eve.lee@yahoo.com,+1-148-797-8680,26/11/2019,france,,N/A,points
+85.0,MIKE,WILLIAMS,mike.williams@yahoo.com,3310698098,07/02/2020,England,-5,103788,
+,ivy,SMITH,ivy.smith@example.com,,02-19-2017,Australia,unknown,N/A,points
+87.0, Oscar , Lewis ,oscar.lewis@example.com,4834886512,2023-01-18,USA,-5,77503,713
+88.0,bob,king,bob.king@hotmail.com,,2023-01-25,U.S.,thirty,$62490,
+,Tina,lee,tina.lee@example.com,+1-234-966-2862,22/04/2015,Australia,unknown,N/A,N/A
+90.0,Charlie,JOHNSON,charlie.johnson@yahoo.com,(211) 119-6781,24/12/2022,UK,-5,,
+91.0,Diana,lee,diana.lee@gmail.com,+1-534-137-6731,"Oct 19, 2016",USA,,$93371,325
+92.0, Eve ,Lewis,eve.lewis@gmail.com,+1-869-259-8126,2017-04-19,Australia,,39663,
+93.0, Diana ,Williams,diana.williams@yahoo.com,+1-888-828-7968,2019-02-02,france,-5,N/A,
+,Bob,ALLEN,bob.allen@mail.com,+1-607-578-9861,04/03/2025,United States,-5,$72893,1903
+95.0,rita, Johnson ,rita.johnson@hotmail.com,1965052229,06-02-2019,United States,81,$53526,3612
+96.0,Bob, Miller ,bob.miller@gmail.com,,2019-01-24,USA,-5,,N/A
+,Jack, Lewis ,jack.lewis@gmail.com,+1-975-984-7583,20/12/2015,australia,,$95654,N/A
+98.0, Bob , Hall ,bob.hall@yahoo.com,(611) 437-9825,10-09-2024,U.S.,22,74150,
+99.0,frank,BROWN,frank.brown@yahoo.com,(844) 815-6285,13/02/2021,UK,thirty,,N/A
+,Sam,smith,samsmith@hotmailcom,9197100767,30/03/2021,France,,105370,4630
+,oscar,Miller,oscar.miller@yahoo.com,8611949788,2025-10-30,Australia,thirty,,points
+102.0,Diana,Garcia,diana.garcia@hotmail.com,+1-449-643-1024,"Feb 10, 2023",USA,unknown,N/A,points
+103.0,Bob,allen,bob.allen@hotmail.com,5503610609,30/12/2022,CA,unknown,N/A,700
+,Nancy,ALLEN,nancy.allen@yahoo.com,8794035376,2020-10-15,U.S.,-5,N/A,3260
+105.0,NANCY, Smith ,nancy.smith@mail.com,,"Feb 19, 2020",U.S.,thirty,N/A,points
+,KAREN,allen,karen.allen@yahoo.com,5060203323,"Aug 11, 2023",United States,thirty,112817,points
+107.0,hank,garcia,hank.garcia@example.com,+1-396-807-9706,11/05/2023,U.S.,83,N/A,
+108.0,Nancy,Johnson,nancy.johnson@gmail.com,(824) 956-8756,"Feb 28, 2020",france,36,$25286,N/A
+,Hank,WALKER,hank.walker@gmail.com,+1-414-234-7852,06-02-2021,france,thirty,$80780,N/A
+,charlie,Garcia,charlie.garcia@gmail.com,9479646302,09-25-2020,United Kingdom,thirty,67472,N/A
+, mike , Miller ,mike.miller@gmail.com,,2017-11-17,UK,thirty,101906,points
+,Oscar,Williams,oscar.williams@gmail.com,+1-925-716-6111,01-10-2016,CA,thirty,$23052,
+113.0,Bob,MILLER,bob.miller@gmail.com,6322930190,19/11/2021,England,thirty,N/A,N/A
+,JACK,BROWN,jack.brown@gmail.com,+1-141-239-5230,2015-07-08,CA,,$86049,points
+115.0,Charlie,Rodriguez,charlie.rodriguez@yahoo.com,,03-07-2022,United Kingdom,thirty,,2980
+116.0,Sam,SMITH,sam.smith@example.com,3743973709,05-21-2024,U.S.,thirty,N/A,
+117.0,Hank, Brown ,hank.brown@mail.com,(927) 547-3816,10/07/2017,U.S.,unknown,,
+118.0,Charlie,Wilson,charlie.wilson@example.com,,2017-06-03,Australia,-5,$112642,points
+,EVE,Hall,eve.hall@mail.com,+1-323-501-2708,16/12/2024,United States,thirty,N/A,3934
+120.0,alice, Williams ,alicewilliams@examplecom,(180) 965-5418,17/06/2017,,-5,$33802,
+121.0, Paul ,hernandez,paul.hernandez@gmail.com,1792385651,"Jul 14, 2021",Canada,thirty,$40010,N/A
+, Frank , Lewis ,frank.lewis@hotmail.com,(438) 891-8097,"Oct 23, 2018",U.S.,unknown,$50955,
+123.0,Oscar,Miller,oscar.miller@mail.com,(239) 595-7334,05-27-2017,,unknown,$79396,points
+124.0,Charlie,Davis,charlie.davis@mail.com,,12-03-2017,Australia,,$68263,points
+125.0,ivy, Brown ,ivy.brown@hotmail.com,(365) 150-9240,08-02-2017,Australia,thirty,92407,
+126.0,Quinn,Hernandez,quinn.hernandez@mail.com,+1-287-518-9001,24/12/2015,australia,90,$31704,N/A
+127.0, Eve ,WILSON,eve.wilson@gmail.com,1410616259,"May 24, 2018",USA,thirty,$113622,898
+128.0, Ivy , Lee ,ivy.lee@mail.com,+1-551-602-7933,"Nov 09, 2024",USA,-5,N/A,4694
+129.0,jack,hernandez,jack.hernandez@gmail.com,+1-628-650-8908,2024-10-09,Canada,thirty,N/A,
+,grace,JONES,grace.jones@example.com,,02/06/2018,U.S.,70,$118807,N/A
+131.0,KAREN, Lee ,karen.lee@mail.com,,2024-06-29,Canada,-5,$106152,N/A
+132.0,Tina, Walker ,tina.walker@hotmail.com,,31/03/2025,France,unknown,$51530,N/A
+133.0, Frank ,Young,frank.young@example.com,+1-956-304-6040,19/03/2015,France,,$84540,4437
+134.0,rita,RODRIGUEZ,rita.rodriguez@gmail.com,,2023-04-04,france,30,N/A,851
+135.0,Frank,Wilson,frankwilson@hotmailcom,(584) 203-6827,"Dec 12, 2023",australia,86,$41944,
+136.0,GRACE,King,grace.king@example.com,+1-770-831-5759,"Dec 19, 2021",United States,-5,101171,2353
+137.0, Rita ,rodriguez,rita.rodriguez@yahoo.com,6811269679,2020-05-04,Canada,thirty,89652,points
+138.0,paul,Williams,paul.williams@example.com,+1-223-262-6018,2021-02-11,USA,unknown,45838,N/A
+, Alice ,Brown,alice.brown@hotmail.com,9609662145,"Jan 25, 2021",England,,80632,
+140.0, Paul ,KING,paul.king@hotmail.com,(314) 129-3549,"Jun 06, 2023",U.S.,thirty,,N/A
+141.0,charlie, Clark ,charlie.clark@gmail.com,(553) 118-3678,"Dec 19, 2020",U.S.,unknown,$109184,points
+142.0,Charlie,Young,charlie.young@yahoo.com,1801464838,2016-08-06,England,thirty,$64852,
+, Eve ,Jones,evejones@gmailcom,(540) 875-5595,10/03/2016,UK,,,3060
+, Sam ,Miller,sam.miller@hotmail.com,(377) 457-2326,2022-12-30,,-5,60720,N/A
+145.0,DIANA,Jones,diana.jones@example.com,+1-968-983-8285,06-25-2019,Australia,78,N/A,N/A
+146.0, Tina ,LEWIS,tina.lewis@hotmail.com,+1-468-675-5633,17/04/2018,United States,unknown,$111254,2041
+,Mike,Lee,mike.lee@mail.com,2074323041,04-09-2023,United Kingdom,unknown,N/A,
+,JACK, Garcia ,jack.garcia@yahoo.com,6086741017,"Jan 27, 2020",Germany,78,$50062,
+,mike,Martin,mike.martin@example.com,+1-763-141-8438,10-27-2015,Australia,thirty,71850,points
+,GRACE,ALLEN,grace.allen@hotmail.com,+1-563-780-8431,22/02/2016,U.S.,unknown,69866,N/A
+151.0,karen,Johnson,karen.johnson@example.com,,"Aug 18, 2019",U.S.,thirty,N/A,90
+152.0, Paul ,Young,paul.young@yahoo.com,6947565344,01-31-2021,Germany,,$34017,4284
+153.0,ivy, Lewis ,ivy.lewis@yahoo.com,,05-01-2024,U.S.,unknown,$102564,points
+154.0,Sam,Walker,sam.walker@hotmail.com,,16/10/2016,Canada,76,70369,
+155.0,alice, Lee ,alice.lee@yahoo.com,,2021-02-09,England,33,,N/A
+156.0,mike,Clark,mike.clark@example.com,,06-15-2015,France,thirty,,points
+157.0,quinn,HERNANDEZ,quinn.hernandez@yahoo.com,,11-30-2020,,,25938,N/A
+,Paul,hernandez,paul.hernandez@yahoo.com,(609) 769-7062,12-11-2023,CA,-5,$47923,393
+159.0,Diana,young,diana.young@example.com,,05-22-2016,France,thirty,$119342,782
+,Tina, martin ,tina.martin@example.com,,02/09/2021,USA,49,$93509,N/A
+161.0,Mike,jones,mike.jones@example.com,7840076277,"May 09, 2022",Germany,unknown,,N/A
+, Eve ,Williams,eve.williams@yahoo.com,,30/12/2023,australia,thirty,,
+163.0,Mike,Hall,mike.hall@mail.com,(269) 934-3350,06/02/2017,France,-5,N/A,256
+164.0,Liam,davis,liam.davis@gmail.com,(301) 367-8583,11/04/2021,australia,unknown,$55308,N/A
+165.0,karen,Miller,karen.miller@example.com,+1-984-420-9506,12-29-2023,USA,unknown,$22814,30
+166.0,Tina,MILLER,tina.miller@example.com,(790) 569-9694,2019-10-18,USA,57,$62075,
+,EVE,King,eve.king@example.com,,05-11-2023,U.S.,,N/A,N/A
+168.0, Alice ,BROWN,alice.brown@gmail.com,(735) 868-9584,18/07/2017,U.S.,-5,27716,N/A
+,Paul,Lee,paullee@examplecom,,2025-07-17,USA,,81504,
+,Mike,YOUNG,mike.young@example.com,9096719153,30/03/2015,australia,thirty,,N/A
+171.0,diana, Walker ,diana.walker@mail.com,,22/01/2017,U.S.,,N/A,N/A
+, Eve ,walker,evewalker@yahoocom,2742451841,"Nov 05, 2017",Canada,63,$57575,N/A
+,Hank,JOHNSON,hank.johnson@mail.com,(705) 248-9497,28/03/2016,England,unknown,N/A,N/A
+174.0,Paul,Allen,paul.allen@hotmail.com,(612) 602-3682,2024-12-06,CA,,82922,
+175.0,Mike,miller,mike.miller@gmail.com,9379392483,"Mar 18, 2017",USA,49,101411,
+176.0,Grace,Miller,grace.miller@gmail.com,,02-15-2019,,,$96960,N/A
+177.0,rita,smith,ritasmith@hotmailcom,,07-25-2019,USA,,96122,points
+,ivy, Young ,ivy.young@yahoo.com,(962) 562-7322,07/02/2016,UK,-5,44805,points
+179.0,oscar,walker,oscar.walker@hotmail.com,5848810161,04/12/2023,CA,,$68979,N/A
+180.0, Grace ,Hernandez,grace.hernandez@example.com,+1-714-134-6075,"Jan 08, 2021",USA,-5,$80296,points
+181.0,Tina,Martin,tinamartin@mailcom,5560694262,11/06/2015,Australia,,110151,
+,KAREN,Lee,karen.lee@example.com,+1-922-636-2300,"Oct 29, 2024",England,unknown,,N/A
+183.0,CHARLIE,Jones,charlie.jones@yahoo.com,1342218539,21/08/2016,U.S.,,N/A,N/A
+,Karen,SMITH,karen.smith@hotmail.com,(528) 623-1121,01-14-2024,Australia,unknown,,N/A
+185.0, Sam ,MILLER,sam.miller@example.com,,2021-08-24,UK,,$40637,N/A
+,sam,Miller,sam.miller@yahoo.com,,"Nov 18, 2016",,unknown,93949,N/A
+187.0,IVY,Williams,ivy.williams@gmail.com,+1-393-332-5823,07-04-2018,U.S.,52,,
+188.0,Charlie,davis,charlie.davis@mail.com,(158) 452-3804,06-29-2021,Canada,,,2137
+189.0, Sam ,Garcia,samgarcia@yahoocom,6709846094,2022-08-26,USA,63,$106169,4943
+190.0,BOB, Brown ,bob.brown@gmail.com,9737800810,"Jan 31, 2021",Australia,21,118003,points
+191.0,karen,Williams,karen.williams@yahoo.com,,"Jul 25, 2019",United States,60,,N/A
+,diana,Smith,diana.smith@mail.com,4101484711,"May 08, 2016",france,unknown,,points
+193.0,Eve, Davis ,eve.davis@example.com,(121) 663-5217,"Nov 19, 2017",,-5,N/A,3006
+, Ivy ,HALL,ivyhall@yahoocom,,"Apr 16, 2018",USA,28,73494,4097
+195.0,Jack,Johnson,jack.johnson@example.com,(355) 546-3386,2015-01-10,Germany,16,62977,N/A
+, Quinn ,BROWN,quinn.brown@example.com,3452057066,"Jan 15, 2025",France,59,N/A,N/A
+197.0,frank,Davis,frank.davis@hotmail.com,,10/08/2019,France,thirty,$111995,N/A
+198.0, Oscar ,LEE,oscar.lee@hotmail.com,+1-360-491-1329,2020-04-06,Australia,74,101612,
+199.0, Paul ,davis,paul.davis@hotmail.com,+1-212-532-8179,2023-01-08,Germany,-5,$56731,2399
+200.0,alice,Garcia,alice.garcia@example.com,(157) 660-5118,2018-08-08,Australia,58,,points
+201.0,QUINN,ALLEN,quinn.allen@yahoo.com,(181) 117-4045,"Nov 11, 2018",USA,23,,4736
+202.0,NANCY, Allen ,nancy.allen@example.com,(117) 271-5248,2024-05-04,United Kingdom,65,$112244,N/A
+203.0,Ivy,MILLER,ivy.miller@example.com,3146046705,25/04/2023,England,thirty,113429,points
+204.0, Tina , Clark ,tina.clark@gmail.com,2820647589,02-08-2016,Canada,-5,$117265,3358
+205.0, Sam ,Hernandez,sam.hernandez@mail.com,(146) 163-5725,"Apr 02, 2022",Canada,82,69112,1307
+,Sam, martin ,sam.martin@example.com,,23/09/2023,France,unknown,53888,
+207.0,liam, martin ,liam.martin@yahoo.com,+1-410-158-1029,"Aug 14, 2015",United States,-5,,N/A
+, Liam , King ,liam.king@hotmail.com,(568) 920-8577,01-06-2023,,,N/A,N/A
+209.0,Rita, Brown ,rita.brown@gmail.com,,2023-11-14,australia,unknown,78082,N/A
+,alice,DAVIS,alice.davis@yahoo.com,+1-907-583-8785,2019-09-25,Canada,thirty,22678,
+211.0,charlie,wilson,charlie.wilson@yahoo.com,4594434081,"Jan 24, 2017",Germany,thirty,,N/A
+,Bob,lee,bob.lee@mail.com,+1-376-512-3250,"Jun 06, 2019",USA,,N/A,
+213.0,Diana,Brown,diana.brown@hotmail.com,(554) 295-6835,06-11-2018,England,unknown,N/A,N/A
+,Eve,williams,eve.williams@yahoo.com,+1-379-882-4422,"Sep 03, 2016",USA,thirty,$116717,N/A
+215.0, karen ,YOUNG,karen.young@example.com,8362449274,22/09/2019,Germany,85,118296,1619
+,Grace,wilson,grace.wilson@hotmail.com,,29/06/2025,Germany,thirty,$82557,points
+217.0,Mike, Jones ,mike.jones@mail.com,(534) 451-3230,31/07/2022,United Kingdom,,89137,points
+218.0,Paul,Hall,paul.hall@yahoo.com,,2022-03-14,United Kingdom,thirty,N/A,1971
+219.0,paul, Wilson ,paul.wilson@example.com,+1-925-342-7171,"Apr 19, 2017",france,thirty,110962,
+220.0, Alice , Jones ,alice.jones@hotmail.com,(202) 877-2607,20/06/2022,CA,thirty,$44876,N/A
+221.0,liam,walker,liam.walker@gmail.com,,2018-12-31,France,-5,$36749,N/A
+,Bob,walker,bob.walker@hotmail.com,,"Mar 21, 2021",,,75556,N/A
+,Nancy,King,nancy.king@hotmail.com,(623) 397-7853,2015-04-05,United Kingdom,16,N/A,
+224.0,Nancy,JOHNSON,nancy.johnson@mail.com,+1-608-188-1189,05/01/2019,UK,,,points
+, Ivy ,martin,ivy.martin@hotmail.com,+1-199-250-6527,03-04-2022,U.S.,72,59839,N/A
+226.0,nancy, King ,nancy.king@example.com,(866) 111-4104,02/11/2021,Canada,63,N/A,points
+,Jack,garcia,jack.garcia@gmail.com,,2025-10-17,United Kingdom,unknown,$77791,N/A
+228.0,FRANK,smith,frank.smith@yahoo.com,+1-526-885-6922,2016-05-04,Germany,15,N/A,N/A
+229.0,paul, Lewis ,paul.lewis@gmail.com,(995) 146-8412,01/08/2019,UK,-5,N/A,1650
+230.0,Grace,Hernandez,grace.hernandez@gmail.com,(380) 813-4166,02-12-2022,France,unknown,$92933,
+,JACK,Williams,jack.williams@hotmail.com,3282516462,22/10/2018,UK,thirty,20165,
+232.0,BOB,Williams,bob.williams@mail.com,(217) 161-2995,11-22-2017,UK,55,N/A,
+233.0,Jack,WILSON,jack.wilson@gmail.com,,11-22-2018,France,thirty,93519,points
+234.0,Tina,garcia,tina.garcia@yahoo.com,+1-418-949-4023,12-26-2018,U.S.,unknown,$40213,points
+,Sam, Clark ,sam.clark@example.com,(798) 885-5528,11-27-2023,CA,-5,,
+236.0, Paul , Allen ,paulallen@examplecom,+1-567-330-8275,"Apr 19, 2021",U.S.,thirty,104244,N/A
+237.0,Tina,WILSON,tina.wilson@hotmail.com,+1-825-741-4915,2017-07-04,UK,thirty,,3336
+238.0,QUINN,Allen,quinn.allen@example.com,+1-694-243-6015,2023-05-12,CA,thirty,$56603,points
+,Diana,RODRIGUEZ,diana.rodriguez@yahoo.com,,"Aug 12, 2022",USA,-5,N/A,points
+, Jack ,Wilson,jack.wilson@example.com,5432210145,10/03/2015,U.S.,unknown,77830,points
+241.0,NANCY,Miller,nancy.miller@mail.com,(734) 113-6910,2022-01-17,france,,,N/A
+,QUINN,hernandez,quinnhernandez@hotmailcom,,2020-09-30,United Kingdom,thirty,N/A,3592
+243.0,Alice, Jones ,alice.jones@gmail.com,,2025-09-20,france,unknown,$94315,points
+, Bob ,garcia,bob.garcia@example.com,+1-979-337-1890,13/03/2025,UK,78,,
+, Oscar ,Walker,oscar.walker@yahoo.com,,2020-10-11,England,thirty,52469,
+246.0,ivy, martin ,ivy.martin@hotmail.com,,"Aug 31, 2023",United States,80,,points
+,JACK,davis,jack.davis@example.com,+1-986-391-4608,"May 19, 2016",United States,,N/A,511
+248.0, Rita ,Wilson,rita.wilson@example.com,5656373172,05/10/2019,australia,78,,N/A
+249.0,Hank, Wilson ,hank.wilson@yahoo.com,,26/05/2021,England,unknown,$41753,N/A
+250.0, Quinn ,SMITH,quinnsmith@hotmailcom,,08-01-2017,Canada,32,,points
+251.0,karen,MILLER,karen.miller@yahoo.com,+1-168-529-1908,2021-12-13,United Kingdom,-5,35276,
+252.0, Alice ,DAVIS,alice.davis@yahoo.com,+1-266-230-7431,11-19-2016,United States,thirty,104007,3672
+,rita,Garcia,rita.garcia@yahoo.com,(800) 504-9390,2024-08-30,England,-5,$92097,points
+254.0,ALICE,GARCIA,alice.garcia@hotmail.com,+1-562-587-4409,23/08/2021,Germany,unknown,92892,
+,Paul,johnson,paul.johnson@gmail.com,3766673340,2021-11-27,England,52,,107
+,Liam,Brown,liam.brown@gmail.com,(961) 765-6627,2023-01-31,United Kingdom,unknown,$40456,points
+257.0,QUINN,Hall,quinn.hall@gmail.com,1436686437,27/10/2018,Australia,unknown,59000,points
+258.0,diana,Miller,diana.miller@hotmail.com,(217) 183-2792,"Feb 08, 2016",australia,unknown,38402,3321
+, Bob ,Brown,bob.brown@yahoo.com,(819) 151-4225,10-04-2017,United States,-5,68255,N/A
+260.0, Bob , Allen ,bob.allen@hotmail.com,,2024-02-02,Australia,,$33273,N/A
+,Nancy,Clark,nancyclark@examplecom,+1-815-296-3183,01-02-2025,France,unknown,$42796,
+262.0,ALICE,Martin,alice.martin@hotmail.com,+1-625-716-9292,2016-03-28,Australia,-5,N/A,2896
+,JACK,Wilson,jack.wilson@gmail.com,+1-811-642-7670,05/08/2016,UK,unknown,,3740
+264.0,frank,Garcia,frank.garcia@example.com,,"Mar 17, 2017",CA,-5,$53192,N/A
+265.0,Ivy,hall,ivy.hall@yahoo.com,+1-615-433-9916,"Mar 22, 2019",france,,$66762,points
+, Quinn ,williams,quinn.williams@hotmail.com,9858251292,01-10-2021,,34,N/A,2257
+,bob,Miller,bob.miller@example.com,+1-859-377-3249,07-26-2016,USA,,$57886,
+268.0,Rita,LEWIS,ritalewis@hotmailcom,,02/04/2024,United Kingdom,thirty,N/A,
+269.0,IVY,HALL,ivy.hall@hotmail.com,,07-22-2020,USA,-5,62796,points
+, Tina ,lewis,tina.lewis@example.com,,"Sep 19, 2022",U.S.,-5,,
+271.0,Liam,JOHNSON,liam.johnson@example.com,8582307919,03-17-2020,U.S.,thirty,,
+272.0,alice,Johnson,alice.johnson@gmail.com,+1-648-330-6167,"Jan 03, 2020",United Kingdom,72,91080,4993
+273.0,Bob,jones,bob.jones@mail.com,,"Nov 29, 2023",Canada,,102091,
+274.0,oscar,Garcia,oscar.garcia@mail.com,(752) 416-8420,07-18-2019,Canada,unknown,78417,926
+275.0, Bob ,LEWIS,bob.lewis@yahoo.com,(401) 126-8441,2025-07-23,,-5,N/A,
+276.0,Diana,Williams,diana.williams@yahoo.com,1880230539,"Sep 14, 2016",,-5,N/A,2491
+277.0,quinn,martin,quinn.martin@gmail.com,,2023-04-30,France,unknown,N/A,
+278.0,frank,YOUNG,frank.young@yahoo.com,+1-304-404-2986,2024-05-03,U.S.,,$24275,N/A
+279.0,Frank,lewis,frank.lewis@example.com,(971) 562-4550,"Mar 15, 2020",England,thirty,$114269,2180
+, Sam ,Miller,sam.miller@gmail.com,+1-200-951-9250,"Aug 19, 2020",USA,87,66218,points
+,OSCAR,rodriguez,oscar.rodriguez@gmail.com,,06/11/2017,England,-5,,N/A
+,Charlie, Young ,charlie.young@mail.com,+1-970-891-9840,2015-04-07,Germany,,101422,points
+283.0,grace,lee,grace.lee@gmail.com,9852666249,"Sep 24, 2021",France,70,,3289
+,eve, Williams ,eve.williams@example.com,(275) 651-8557,29/10/2023,England,thirty,,1453
+285.0,Liam,Williams,liam.williams@example.com,(665) 667-2613,"May 31, 2021",Australia,,$109851,points
+286.0,Quinn,lee,quinn.lee@mail.com,8115613893,2016-06-06,france,unknown,54998,
+287.0,alice,allen,alice.allen@gmail.com,+1-171-982-7293,05-20-2018,,thirty,N/A,N/A
+,FRANK,Davis,frank.davis@mail.com,+1-450-570-9885,28/06/2024,Germany,,27248,points
+289.0,LIAM,Walker,liam.walker@mail.com,+1-150-775-7999,11-21-2015,France,-5,$114976,2136
+290.0,paul,allen,paul.allen@yahoo.com,,09-11-2020,australia,thirty,92434,4465
+291.0,bob, Young ,bob.young@example.com,+1-471-317-9951,2019-01-26,australia,66,$108427,N/A
+292.0,MIKE,MARTIN,mike.martin@example.com,(413) 906-5081,03-24-2015,France,unknown,70550,2862
+,nancy,BROWN,nancy.brown@yahoo.com,(936) 272-9616,"Aug 23, 2020",CA,-5,$48655,
+,EVE,Young,eve.young@gmail.com,+1-127-423-3369,2017-04-02,England,35,$65468,N/A
+295.0,Ivy,Martin,ivy.martin@mail.com,8774591813,10/11/2015,Germany,unknown,$108504,1820
+296.0,Tina,King,tina.king@yahoo.com,+1-137-806-6704,"Oct 12, 2024",Australia,80,N/A,points
+,diana,MILLER,diana.miller@mail.com,,"Jun 07, 2016",,65,N/A,points
+,ALICE,Davis,alice.davis@mail.com,(282) 371-2678,2023-03-16,France,unknown,31453,2454
+,Alice,Rodriguez,alice.rodriguez@gmail.com,+1-469-413-3836,16/07/2016,CA,thirty,,points
+300.0,mike,Davis,mike.davis@mail.com,9613123796,2025-09-05,,unknown,N/A,points
+,rita,Jones,rita.jones@example.com,,03-26-2019,Germany,unknown,,N/A
+, Grace ,Miller,grace.miller@hotmail.com,(878) 174-6776,"Mar 04, 2017",Germany,,50183,N/A
+303.0,sam,Lee,sam.lee@gmail.com,,07-17-2022,france,thirty,91383,1970
+304.0,PAUL,HALL,paul.hall@hotmail.com,9519276109,2023-07-02,England,unknown,83276,N/A
+305.0, Ivy ,CLARK,ivy.clark@mail.com,+1-741-192-8235,10/06/2015,USA,56,82408,
+306.0, Diana ,DAVIS,diana.davis@mail.com,7641898032,30/09/2020,England,61,105649,4467
+, Liam ,martin,liam.martin@hotmail.com,(433) 944-6076,"Jun 16, 2015",Germany,unknown,27386,
+308.0,GRACE,Miller,gracemiller@gmailcom,(619) 721-1812,"Sep 17, 2019",USA,thirty,94067,1968
+309.0,LIAM,ALLEN,liam.allen@hotmail.com,3105452938,"Jul 13, 2022",England,28,,points
+310.0,grace,allen,grace.allen@mail.com,,"Dec 29, 2024",England,thirty,$64193,1213
+, Diana ,LEWIS,diana.lewis@gmail.com,5451477771,05-14-2017,australia,unknown,$119902,points
+312.0,hank,allen,hank.allen@example.com,(210) 386-6709,2019-10-12,Canada,56,55231,N/A
+,Quinn,williams,quinn.williams@mail.com,,2016-11-06,France,,N/A,
+314.0,RITA, martin ,rita.martin@hotmail.com,(275) 492-9634,2021-01-03,United Kingdom,,N/A,N/A
+315.0, Oscar ,jones,oscar.jones@yahoo.com,,07/06/2020,,-5,N/A,2816
+,Jack,SMITH,jack.smith@gmail.com,,24/01/2015,United States,50,30572,points
+317.0,Liam,davis,liam.davis@gmail.com,+1-612-991-4808,"May 15, 2021",U.S.,,,2568
+318.0,Hank,martin,hank.martin@hotmail.com,4163246742,"Sep 14, 2020",England,38,$110895,N/A
+319.0,Oscar,johnson,oscar.johnson@example.com,,"Mar 14, 2023",,thirty,N/A,N/A
+320.0,DIANA,CLARK,diana.clark@yahoo.com,8372066558,2021-09-05,U.S.,thirty,111261,points
+321.0,Sam,MILLER,sam.miller@gmail.com,8876487413,01-29-2020,UK,32,N/A,points
+,Hank,wilson,hank.wilson@example.com,+1-196-373-9238,04-10-2022,England,unknown,37996,
+,ALICE,garcia,alice.garcia@mail.com,(787) 466-8019,08/08/2019,United States,-5,,
+,hank,Hernandez,hank.hernandez@yahoo.com,,"Apr 09, 2019",England,,$115990,
+325.0,ALICE, Lewis ,alice.lewis@hotmail.com,+1-621-633-1400,2015-11-22,Australia,49,,
+326.0, karen ,JOHNSON,karen.johnson@hotmail.com,(696) 807-9911,25/05/2020,Australia,,,N/A
+327.0,OSCAR,Jones,oscar.jones@hotmail.com,,16/03/2025,,thirty,N/A,4260
+, Bob ,wilson,bob.wilson@yahoo.com,,02-09-2025,United States,27,$81013,
+,Oscar, Williams ,oscar.williams@mail.com,7182808728,"Aug 09, 2015",UK,unknown,,points
+330.0, Charlie ,Jones,charlie.jones@mail.com,7222184954,"Aug 01, 2025",france,,$118438,
+,Rita, Clark ,rita.clark@gmail.com,+1-159-961-1431,2016-12-28,U.S.,thirty,,
+332.0,Liam, Hall ,liamhall@examplecom,(692) 602-5368,2015-07-13,USA,-5,$103193,44
+333.0,rita,Garcia,rita.garcia@gmail.com,+1-966-144-7037,07/01/2025,France,41,31822,points
+334.0,Ivy,hernandez,ivy.hernandez@hotmail.com,5440534456,11-28-2022,france,,$40190,points
+,NANCY,brown,nancybrown@hotmailcom,2937225538,24/04/2025,France,thirty,$63723,points
+,Liam,MARTIN,liam.martin@hotmail.com,,2024-08-17,France,unknown,$117744,N/A
+,rita,Young,rita.young@gmail.com,(331) 686-5619,"May 28, 2025",England,54,,2096
+338.0,alice,lee,alice.lee@hotmail.com,+1-743-825-1800,"Jan 04, 2022",United Kingdom,48,26237,4661
+,Bob,Wilson,bobwilson@mailcom,(356) 194-8326,03-08-2016,Canada,-5,$84050,points
+340.0,bob,hernandez,bobhernandez@gmailcom,1997234537,2017-11-05,U.S.,64,N/A,
+,tina, Rodriguez ,tina.rodriguez@hotmail.com,+1-642-783-1731,"May 29, 2016",Canada,thirty,N/A,points
+342.0,Jack,Young,jack.young@example.com,+1-643-566-4216,27/01/2015,USA,thirty,$20061,N/A
+343.0,BOB, Hernandez ,bob.hernandez@gmail.com,(604) 905-1484,"May 19, 2020",United States,thirty,$33590,N/A
+344.0,Liam,RODRIGUEZ,liamrodriguez@yahoocom,,"Jan 05, 2020",australia,-5,49717,N/A
+345.0,Nancy,RODRIGUEZ,nancy.rodriguez@mail.com,,01/09/2017,Australia,,$109948,points
+346.0,Ivy, Wilson ,ivy.wilson@mail.com,+1-950-783-1296,2018-02-24,CA,,N/A,points
+,Sam,LEE,sam.lee@example.com,(932) 846-2511,2015-10-07,australia,-5,N/A,points
+,Quinn,rodriguez,quinn.rodriguez@yahoo.com,1621492558,21/09/2015,Germany,unknown,$103860,points
+349.0,KAREN,King,karen.king@yahoo.com,1043333303,15/10/2015,australia,unknown,N/A,3167
+350.0,nancy,lewis,nancy.lewis@yahoo.com,4574086519,"Jul 09, 2024",United Kingdom,-5,44269,points
+351.0,Tina, Walker ,tina.walker@yahoo.com,(830) 780-6324,02-09-2021,australia,,$106287,
+352.0,ivy,davis,ivy.davis@hotmail.com,+1-960-143-9604,01-01-2023,UK,unknown,$46735,points
+353.0,karen,Walker,karen.walker@mail.com,(671) 121-5074,14/09/2017,CA,unknown,,
+354.0,NANCY,Smith,nancy.smith@hotmail.com,,30/11/2021,australia,-5,50648,
+,Grace,Smith,grace.smith@gmail.com,,01-23-2017,,,N/A,N/A
+,Bob, Smith ,bob.smith@gmail.com,9893837053,2025-01-29,United States,-5,,N/A
+,DIANA, Johnson ,diana.johnson@yahoo.com,6557780595,16/03/2024,France,unknown,N/A,points
+,Liam,Smith,liam.smith@yahoo.com,+1-253-779-9694,11/06/2021,England,-5,,N/A
+359.0,Tina,Walker,tina.walker@hotmail.com,(249) 944-1810,2015-02-02,U.S.,65,,
+360.0,OSCAR,YOUNG,oscaryoung@yahoocom,1367189082,05/10/2017,australia,-5,$119396,N/A
+,HANK, Lee ,hank.lee@example.com,+1-356-622-6792,03-18-2019,,thirty,,N/A
+, Charlie , Hall ,charlie.hall@gmail.com,5634331589,12-17-2023,USA,thirty,$32942,points
+,Sam,Wilson,sam.wilson@example.com,4553511840,10-19-2019,france,75,39546,
+, Eve ,King,eve.king@hotmail.com,7511161259,06/02/2019,Australia,-5,36323,points
+365.0,Hank,Allen,hankallen@gmailcom,,"Apr 15, 2024",United Kingdom,16,,533
+366.0,nancy, Johnson ,nancy.johnson@gmail.com,+1-650-637-4526,01-23-2018,England,-5,,816
+367.0,Mike, Johnson ,mike.johnson@hotmail.com,6407204539,"May 31, 2024",England,-5,89635,N/A
+368.0, Nancy ,Brown,nancy.brown@mail.com,+1-341-153-4563,"Jul 05, 2018",England,29,$104586,N/A
+369.0,Bob,Hernandez,bob.hernandez@yahoo.com,,"Dec 28, 2023",UK,unknown,$68873,N/A
+, Nancy , Walker ,nancy.walker@gmail.com,1855973728,"Mar 16, 2015",France,,99115,N/A
+371.0,Oscar,Johnson,oscar.johnson@example.com,+1-303-651-2221,17/08/2024,England,28,N/A,points
+,tina,Smith,tina.smith@example.com,(237) 269-6974,17/09/2025,France,unknown,$70368,points
+373.0,FRANK,Williams,frank.williams@gmail.com,(565) 478-1014,2024-06-03,France,65,,
+374.0,Rita,Davis,rita.davis@gmail.com,,12-11-2015,UK,73,,points
+375.0, Oscar ,Johnson,oscar.johnson@gmail.com,1984714582,2018-08-19,France,unknown,N/A,2588
+,mike,williams,mike.williams@gmail.com,(670) 972-9646,"Aug 06, 2021",England,thirty,,
+377.0, Grace ,lee,grace.lee@gmail.com,4013446125,09-03-2023,England,-5,N/A,points
+,tina,SMITH,tina.smith@example.com,(912) 290-6013,2019-05-12,United States,,N/A,50
+379.0, karen ,BROWN,karen.brown@mail.com,+1-299-737-1695,06-03-2018,australia,thirty,,
+380.0, Diana ,Walker,diana.walker@gmail.com,1818457865,27/07/2021,france,25,,N/A
+,mike, Allen ,mike.allen@example.com,(565) 611-2043,2025-09-06,CA,29,,
+,karen,young,karenyoung@yahoocom,6651936736,2021-04-27,England,68,N/A,points
+383.0,Rita,Hernandez,rita.hernandez@gmail.com,+1-285-979-3771,"Oct 09, 2024",UK,unknown,,N/A
+384.0,Diana,BROWN,diana.brown@yahoo.com,,"Jul 07, 2016",France,59,$64242,4169
+385.0,alice,MILLER,alice.miller@yahoo.com,,2025-04-01,france,-5,N/A,4340
+386.0,hank, Smith ,hank.smith@gmail.com,(717) 728-3201,"Jul 11, 2020",USA,thirty,,N/A
+387.0,quinn,King,quinn.king@hotmail.com,+1-701-230-5858,11-03-2023,france,unknown,46174,N/A
+388.0,FRANK,LEE,frank.lee@mail.com,(824) 114-6064,"Sep 24, 2018",france,-5,26494,N/A
+389.0,Oscar,Rodriguez,oscar.rodriguez@yahoo.com,(731) 174-8223,25/11/2023,France,-5,,points
+390.0, Nancy , Lewis ,nancy.lewis@mail.com,+1-152-848-5828,2017-12-21,France,43,$119170,points
+391.0,Quinn, martin ,quinn.martin@mail.com,+1-883-485-2402,10-31-2019,Canada,unknown,N/A,
+392.0,karen,KING,karen.king@mail.com,(812) 748-7499,27/11/2017,UK,-5,52999,points
+393.0,tina,WILSON,tina.wilson@yahoo.com,(362) 561-1091,2024-08-09,CA,thirty,94479,
+394.0,jack,HALL,jack.hall@hotmail.com,,"Apr 18, 2023",U.S.,unknown,112887,N/A
+395.0, Bob , Allen ,bob.allen@example.com,+1-247-341-8127,01-24-2019,Australia,unknown,$40119,1064
+396.0,Bob, Davis ,bobdavis@gmailcom,(712) 136-8613,03-03-2021,USA,,N/A,N/A
+397.0,CHARLIE,Smith,charlie.smith@yahoo.com,,"Feb 01, 2025",U.S.,unknown,,3839
+398.0, Hank , Walker ,hank.walker@hotmail.com,(597) 739-7245,04/07/2016,United Kingdom,-5,,
+399.0,IVY,Garcia,ivy.garcia@mail.com,,27/06/2019,United Kingdom,21,58714,2549
+400.0,Bob,Jones,bob.jones@example.com,,2015-01-13,CA,-5,$99466,3149
+,Oscar,lee,oscar.lee@yahoo.com,,"Apr 16, 2020",United Kingdom,75,,
+402.0, Paul ,JONES,paul.jones@hotmail.com,,"Mar 01, 2021",france,-5,25619,points
+,RITA,King,rita.king@mail.com,+1-274-466-7938,2018-05-28,UK,-5,55685,points
+404.0,charlie, Hernandez ,charlie.hernandez@example.com,,"Jul 28, 2018",United Kingdom,26,66349,1295
+405.0,Sam, Young ,sam.young@hotmail.com,2068035842,13/09/2023,United States,-5,78666,
+, Ivy ,CLARK,ivyclark@examplecom,(944) 723-7616,10/04/2019,france,unknown,$58761,points
+,Bob,LEWIS,bob.lewis@yahoo.com,+1-533-936-3112,2019-12-10,Canada,,N/A,N/A
+408.0,TINA,WILSON,tina.wilson@yahoo.com,+1-752-104-7759,"Sep 23, 2024",France,,$66254,4866
+409.0,Sam,Hall,sam.hall@gmail.com,,01-01-2024,USA,-5,N/A,points
+410.0,Frank,RODRIGUEZ,frank.rodriguez@example.com,9797169853,2017-02-11,france,thirty,$37726,points
+411.0,liam,Hernandez,liam.hernandez@mail.com,8190363757,"Jun 30, 2019",france,unknown,,N/A
+412.0,Diana, Young ,dianayoung@gmailcom,+1-759-240-8686,2015-10-25,France,,,
+413.0,Hank, Davis ,hank.davis@gmail.com,,"Oct 25, 2015",france,unknown,53793,N/A
+414.0,Karen, Rodriguez ,karen.rodriguez@hotmail.com,(218) 723-1608,09-16-2016,Australia,thirty,N/A,
+,ALICE,LEWIS,alice.lewis@hotmail.com,7101889302,2018-09-13,United Kingdom,thirty,$42901,
+416.0,sam,LEWIS,sam.lewis@gmail.com,,"Jul 04, 2018",USA,thirty,$26902,3811
+417.0, Tina ,Smith,tina.smith@yahoo.com,(609) 496-1564,"Oct 26, 2021",U.S.,thirty,,points
+418.0,ALICE, Hernandez ,alice.hernandez@example.com,+1-807-796-7643,10/06/2019,France,thirty,,599
+419.0,KAREN, Miller ,karen.miller@mail.com,(981) 584-7977,07-07-2024,CA,-5,N/A,
+420.0, Paul ,Hernandez,paul.hernandez@yahoo.com,,"Jan 07, 2018",United Kingdom,71,58615,N/A
+,Eve,WILSON,eve.wilson@mail.com,9256090336,"Jul 26, 2024",australia,43,$70827,N/A
+422.0,JACK,wilson,jack.wilson@gmail.com,4188858623,01-22-2022,UK,-5,$93342,N/A
+,Oscar,Young,oscar.young@yahoo.com,+1-232-812-5160,2018-10-02,UK,-5,$27803,2736
+,KAREN, Allen ,karen.allen@gmail.com,(432) 902-1492,27/01/2022,australia,,76670,points
+425.0,Alice, Lewis ,alice.lewis@hotmail.com,3562365837,09-16-2020,France,thirty,,539
+426.0,Tina, Hall ,tina.hall@example.com,,"Nov 25, 2017",UK,,28926,
+427.0, Oscar ,Lewis,oscar.lewis@hotmail.com,(975) 478-3889,30/12/2020,USA,,102521,points
+428.0, Tina , Lee ,tina.lee@mail.com,8019647442,10-29-2022,australia,,N/A,
+429.0, Liam ,WALKER,liam.walker@yahoo.com,,2023-11-03,United Kingdom,-5,N/A,N/A
+430.0,EVE,martin,evemartin@mailcom,(981) 172-5891,2018-10-11,Canada,,,
+431.0,CHARLIE,walker,charlie.walker@gmail.com,5931227145,2015-03-15,Germany,-5,81198,1207
+432.0,Alice,Lee,alice.lee@gmail.com,,07-19-2025,United Kingdom,62,114166,2946
+,Liam, Miller ,liam.miller@hotmail.com,(869) 114-4097,2024-11-07,australia,unknown,,1986
+, Paul ,williams,paul.williams@mail.com,+1-329-528-9079,2024-12-01,CA,thirty,24497,4399
+, Paul , Garcia ,paul.garcia@yahoo.com,(630) 466-5994,"Feb 28, 2019",Australia,17,N/A,
+436.0,JACK,JONES,jack.jones@gmail.com,6274164455,07-15-2019,United Kingdom,unknown,,4178
+437.0,Charlie,walker,charlie.walker@yahoo.com,,09-30-2017,Canada,,N/A,
+, Sam ,WALKER,samwalker@gmailcom,(971) 339-5385,10-19-2015,United Kingdom,-5,$76749,N/A
+439.0,KAREN,lewis,karenlewis@yahoocom,,12-01-2022,france,-5,$100441,
+,DIANA, Walker ,diana.walker@mail.com,+1-936-946-1446,03-04-2022,france,unknown,,points
+,OSCAR,Wilson,oscar.wilson@gmail.com,4365325352,05/04/2023,UK,-5,$65757,
+442.0,Bob,Young,bob.young@mail.com,3426928524,04-30-2016,Australia,unknown,61881,
+443.0,Paul,ALLEN,paul.allen@gmail.com,+1-421-652-2575,07-14-2025,UK,thirty,N/A,N/A
+444.0,Ivy,lewis,ivy.lewis@gmail.com,(250) 130-7081,"Oct 01, 2021",france,87,$83783,3271
+,Hank,Smith,hank.smith@mail.com,+1-794-736-6749,22/03/2016,france,unknown,91323,N/A
+, Charlie , King ,charlie.king@example.com,1056338184,21/01/2019,UK,-5,$62936,
+447.0,nancy, Garcia ,nancy.garcia@gmail.com,2405590963,2017-10-30,U.S.,thirty,$61799,N/A
+,Tina,Brown,tina.brown@gmail.com,+1-226-144-3064,09-17-2015,Canada,-5,N/A,4457
+449.0, Diana ,YOUNG,diana.young@gmail.com,,02/05/2023,USA,unknown,51846,
+450.0,DIANA,Davis,diana.davis@gmail.com,6657732455,2019-07-17,CA,,N/A,2603
+,Sam, Smith ,sam.smith@hotmail.com,6353476716,2019-01-06,United States,-5,N/A,N/A
+,Liam,LEWIS,liam.lewis@yahoo.com,(722) 851-6094,10-12-2017,Australia,thirty,N/A,points
+453.0, Hank ,Martin,hank.martin@mail.com,(501) 863-7424,2021-05-23,australia,,,
+454.0,MIKE,RODRIGUEZ,mike.rodriguez@gmail.com,+1-441-825-2952,"Aug 10, 2019",france,thirty,$20468,
+455.0,Ivy, Walker ,ivy.walker@gmail.com,1162911010,06-26-2024,England,unknown,N/A,points
+,Rita,Hall,rita.hall@mail.com,+1-810-120-1294,2016-05-23,CA,-5,,292
+,Nancy,wilson,nancy.wilson@yahoo.com,(565) 446-7164,"Jul 07, 2018",Germany,-5,97406,points
+458.0,Jack,Martin,jack.martin@hotmail.com,(800) 272-1470,24/04/2020,England,-5,N/A,
+,PAUL,Wilson,paul.wilson@yahoo.com,,"Jun 14, 2017",australia,thirty,,2179
+460.0,Grace, Young ,grace.young@yahoo.com,3602989724,"Jul 05, 2016",,27,$77516,
+461.0,diana,johnson,diana.johnson@yahoo.com,(494) 170-2963,14/11/2018,Canada,thirty,N/A,N/A
+462.0,Eve,Lewis,eve.lewis@yahoo.com,6471724272,2018-12-14,Germany,,$38255,2480
+,Oscar,Walker,oscar.walker@yahoo.com,+1-162-693-7477,10-17-2016,England,40,N/A,295
+464.0,Alice,Hall,alice.hall@gmail.com,+1-715-776-2239,27/09/2022,Germany,82,N/A,
+,Bob,GARCIA,bob.garcia@mail.com,(595) 137-9696,10-19-2020,UK,,N/A,points
+, Frank , Wilson ,frank.wilson@mail.com,+1-229-237-3114,05/05/2020,England,thirty,$75579,
+,Jack,Rodriguez,jack.rodriguez@example.com,,"Sep 04, 2017",France,-5,106715,points
+468.0,Alice,allen,alice.allen@example.com,,24/05/2023,France,unknown,$42068,3643
+469.0,ALICE,Williams,alice.williams@hotmail.com,+1-292-506-7800,"Mar 03, 2025",USA,87,N/A,N/A
+470.0,karen,Smith,karen.smith@gmail.com,2481149287,"Sep 25, 2020",CA,86,40335,3265
+471.0,charlie,HERNANDEZ,charlie.hernandez@yahoo.com,+1-336-445-2510,"Feb 20, 2024",australia,thirty,89276,N/A
+472.0, Hank ,Clark,hank.clark@gmail.com,+1-238-411-9874,10/10/2023,U.S.,unknown,$81911,2952
+, Liam ,HERNANDEZ,liam.hernandez@yahoo.com,(296) 886-4058,28/10/2017,United Kingdom,thirty,$117581,N/A
+474.0,ALICE, Johnson ,alice.johnson@example.com,,06-20-2017,Germany,unknown,N/A,4450
+475.0,grace,Hall,grace.hall@hotmail.com,8633972887,12-04-2024,australia,61,$88531,
+, Hank ,hernandez,hank.hernandez@hotmail.com,1208427522,2021-07-06,australia,thirty,,
+,Oscar, Miller ,oscar.miller@yahoo.com,8135052600,2017-10-22,United States,,,
+478.0,oscar,Martin,oscar.martin@mail.com,+1-837-377-7402,17/02/2018,France,33,95002,4029
+,Hank,Davis,hank.davis@gmail.com,(494) 913-3963,03-04-2024,australia,-5,70616,points
+, Jack , martin ,jack.martin@yahoo.com,(169) 797-4669,2020-06-29,United Kingdom,33,,
+481.0, karen ,martin,karen.martin@gmail.com,8122129335,"Jun 28, 2017",USA,89,73694,points
+,DIANA,Hernandez,diana.hernandez@gmail.com,+1-919-538-5657,2017-01-13,USA,27,,
+483.0,Frank,Williams,frank.williams@hotmail.com,7136421861,01-26-2017,USA,-5,N/A,points
+484.0,Bob,JOHNSON,bob.johnson@gmail.com,3569922404,2017-10-24,United Kingdom,71,,689
+485.0,ALICE,JONES,alice.jones@gmail.com,(599) 157-7031,27/07/2015,,unknown,,points
+486.0,EVE,Young,eve.young@hotmail.com,(863) 675-8343,2024-05-26,Germany,unknown,119535,
+487.0,Frank,SMITH,frank.smith@hotmail.com,(603) 390-9179,2019-07-29,france,44,N/A,4281
+488.0,Charlie,BROWN,charlie.brown@yahoo.com,(186) 734-1717,"Sep 29, 2021",france,thirty,,N/A
+,FRANK,martin,frank.martin@mail.com,1662008017,2020-10-31,,-5,N/A,4031
+490.0,paul,JONES,paul.jones@mail.com,,2015-01-30,Canada,-5,34961,
+491.0,eve,YOUNG,eve.young@hotmail.com,8682744359,2025-06-26,france,thirty,,
+492.0,LIAM,king,liam.king@hotmail.com,,2020-03-07,france,87,N/A,136
+493.0,NANCY, Lewis ,nancy.lewis@example.com,,29/03/2023,USA,,$101114,points
+494.0,CHARLIE, Hernandez ,charlie.hernandez@example.com,,13/03/2023,UK,unknown,N/A,
+,LIAM,LEWIS,liam.lewis@gmail.com,2544775033,2025-05-02,USA,-5,,
+,Liam,garcia,liam.garcia@gmail.com,(230) 584-1217,11-21-2018,CA,,46670,N/A
+, Hank , Hernandez ,hank.hernandez@example.com,(974) 930-3185,09/06/2018,England,73,$112304,N/A
+,Nancy,King,nancy.king@mail.com,+1-721-361-3426,2025-03-09,United Kingdom,-5,N/A,N/A
+,Sam, Clark ,sam.clark@gmail.com,(673) 310-5644,"Aug 19, 2025",USA,53,,
+, Liam , Lewis ,liam.lewis@hotmail.com,,12-02-2017,France,,N/A,1781
