@@ -10,7 +10,7 @@ The below images show a detailed analysis of the inconsistencies and messiness o
 
 Data Cleaning Approach
 
-As can be seen from the analysis, the data is incredibly messy. To clean this dataset, I will employ a sytematic ETL approach, cleaning column after column while leaving the original dataset unaltered. This approach will rely heavily on SELECT statements, CASE logic, and built-in SQL functions (TRIM, REPLACE, CAST, date functions) to derive clean values.
+As can be seen from the analysis, the data is incredibly messy. To clean this dataset, I will employ a systematic ETL approach, cleaning column after column while leaving the original dataset unaltered. This approach will rely heavily on SELECT statements, CASE logic, and built-in SQL functions (TRIM, REPLACE, CAST, date functions) to derive clean values.
 
 
 
